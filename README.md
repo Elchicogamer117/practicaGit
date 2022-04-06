@@ -1,0 +1,2 @@
+# practicaGit
+Versionamiento de blog
