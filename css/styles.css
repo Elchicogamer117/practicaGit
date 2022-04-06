@@ -1,7 +1,8 @@
 body{
      text-align: center;
-     font-family: "Victor Mono"; 
-     color: deeppink;
+     font-family: "Victor Mono";
+     font-weight: bold; 
+     color: #ff1493;
      padding: 0;
      margin: 0;
 }
@@ -9,7 +10,7 @@ body{
 #container {
      width: 70%;
      padding: 1em;
-     border: 2px solid rgb(10, 152, 175);
+     border: 2px solid #0a98af;
      text-align: center;
      margin: 0 auto;
 }
