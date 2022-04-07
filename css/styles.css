@@ -1,4 +1,5 @@
 body{
+     background: rgba(2, 20, 50, 0.5);
      text-align: center;
      font-family: "Victor Mono";
      font-weight: bold; 
@@ -9,7 +10,7 @@ body{
 
 #cabecera
 {
-    background: rgb(10, 152, 175);
+    background: #0a98af;
     color: white;
     font-size: x-large;
     font-weight: bold;
@@ -28,7 +29,7 @@ body{
 #container {
      width: 70%;
      padding: 0;
-     border: 2px solid rgb(10, 152, 175);
+     border: 5px solid rgb(10, 152, 175);
      box-shadow: 2px 2px 20px 2px rgba(0, 0, 0, 0.15);
      text-align: center;
      margin: 0 auto;
@@ -40,5 +41,6 @@ body{
 
 #post
 {
-    padding: 1em;
+    background: white;
+    padding: 2em;
 }
