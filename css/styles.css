@@ -1,5 +1,4 @@
-body{
-     background: rgba(2, 20, 50, 0.5);
+body {
      text-align: center;
      font-family: "Victor Mono";
      font-weight: bold; 
@@ -39,8 +38,10 @@ body{
      font-size: 40px;
 }
 
-#post
-{
-    background: white;
-    padding: 2em;
+#pos {
+    padding: 1em;
+}
+
+footer {
+    padding: 20px;
 }
