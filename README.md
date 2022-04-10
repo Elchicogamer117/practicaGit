@@ -7,4 +7,6 @@
 
 -Todo lo necesario para trabajar en equipo. 😁👌
 
-incluye ejemplos didacticos.
+-Incluye ejemplos didacticos.
+
+-Disponible para todas las edades
