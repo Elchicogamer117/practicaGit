@@ -6,3 +6,5 @@
 - VS Code  
 
 -Todo lo necesario para trabajar en equipo. 😁👌
+
+incluye ejemplos didacticos.
